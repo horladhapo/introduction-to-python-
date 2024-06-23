@@ -1,5 +1,13 @@
 # introduction to python 
 
+Programming language or computer language are language understood by the computer. They are a set of instructions put together to command a computer to perform certain tasks based on commands.
+machine languages are a bunch of 0 and 1. Examples of high-level machine languages are Python, JavaScript,c++
+
+the apps that serve as middle object between the python programmer and the computer is known as ide
+integrated development environment such as spider, jupyter notebook
+
+jupyter notebook needs make use of Anaconda is a web interface ide
+
 What is Python?
 Python is a programming language that is widely used in web applications, software development, data science, and machine learning (ML). Developers use Python because it is efficient and easy to learn and can run on many different platforms. Python software is free to download, integrates well with all types of systems, and increases development speed.
 
